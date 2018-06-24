@@ -1,0 +1,2 @@
+aiohttp==2.3.9
+async_timeout==2.0.0

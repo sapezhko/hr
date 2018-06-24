@@ -1,0 +1,17 @@
+{
+  "repos": [
+    "moby/moby",
+    "docker/compose",
+    "docker/swarm",
+    "kubernetes/kops",
+    "kubernetes/minikube",
+    "docker/libnetwork",
+    "torvalds/linux"
+  ],
+  "logLevel": "DEBUG",
+  "accessToken": "",
+  "locations": [
+    "Belarus",
+    "Minsk"
+  ]
+}
